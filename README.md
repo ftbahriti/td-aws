@@ -90,11 +90,11 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 `127.0.0.1 gary-aka-le-prof.ipssi-squad.fr`
 
 
-## Création d'une base de donnée RDS aurora
+## Création d'une base de donnée dans le cluster RDS aurora
 
-- Connectez vous à la base de donnée (info envoyé sur slack)
+- Connectez vous au cluster de donnée aurora (info envoyé sur slack)
 - Créez vous un compte utilisateur
-- Créez vous une table de donnée
+- Créez vous une base de donnée (et mettez les identifiants dans un coin pour demain)
 
 
 
