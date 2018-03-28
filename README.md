@@ -72,6 +72,9 @@ sudo apt-get -y install php7.2-common
 sudo apt-get -y install php7.2-zip
 sudo apt-get -y install php7.2-cli
 
+sudo a2dismod php7.1
+sudo a2enmod php7.2
+
 sudo service apache2 restart
 ```
 
@@ -87,6 +90,8 @@ sudo service apache2 restart
 Ajouter la ligne de configuration de votre domaine comme suit:
 
 `127.0.0.1 gary-aka-le-prof.ipssi-squad.fr`
+
+
 
 
 
