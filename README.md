@@ -92,7 +92,8 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 
 ## Création d'une base de donnée dans le cluster RDS aurora
 
-- Connectez vous au cluster de donnée aurora (info envoyé sur slack)
+- Téléchargez Mysql Workbench => https://www.mysql.com/fr/products/workbench/
+- Connectez vous au cluster de donnée aurora via workbench (info envoyé sur slack)
 - Créez vous un compte utilisateur
 - Créez vous une base de donnée (et mettez les identifiants dans un coin pour demain)
 
