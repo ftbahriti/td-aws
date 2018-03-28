@@ -22,10 +22,15 @@ aws.amazon.com
 
 # Installer les packages basic de l'instance
 ```bash 
+sudo apt-get update
+sudo apt-get upgrade -y
+
 sudo apt-get install -y curl
 sudo apt-get install -y apt-transport-https
 sudo apt-get install -y ca-certificates
 sudo apt-get install -y software-properties-common
+sudo apt-get install -y git
+
 ```
 
 # Pour installer apache 
@@ -55,17 +60,17 @@ sudo apt-get install -y language-pack-en-base
 sudo apt-get update
 sudo apt-get upgrade
 
-sudo apt-get -y install php7.1
-sudo apt-get -y install php7.1-mysql 
-sudo apt-get -y install php7.1-curl 
-sudo apt-get -y install php7.1-intl 
-sudo apt-get -y install php7.1-mcrypt 
-sudo apt-get -y install php7.1-xml
-sudo apt-get -y install php7.1-mbstring
-sudo apt-get -y install php7.1-pdo
-sudo apt-get -y install php7.1-common
-sudo apt-get -y install php7.1-zip
-sudo apt-get -y install php7.1-cli
+sudo apt-get -y install php7.2
+sudo apt-get -y install php7.2-mysql 
+sudo apt-get -y install php7.2-curl 
+sudo apt-get -y install php7.2-intl 
+sudo apt-get -y install php7.2-mcrypt 
+sudo apt-get -y install php7.2-xml
+sudo apt-get -y install php7.2-mbstring
+sudo apt-get -y install php7.2-pdo
+sudo apt-get -y install php7.2-common
+sudo apt-get -y install php7.2-zip
+sudo apt-get -y install php7.2-cli
 
 sudo service apache2 restart
 ```
