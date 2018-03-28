@@ -57,4 +57,14 @@ sudo apt-get -y install php7.1-cli
 sudo service apache2 restart
 
 
+# Créé un sous domaine
+
+- A l'aide du service AWS route 53, créé un sous domaine pointant vers l'adresse IP Publique de votre instance
+
+# Configuration du VHOST sur l'instance
+
+- 
+
+
+
 
