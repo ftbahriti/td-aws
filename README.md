@@ -34,6 +34,13 @@ jedtassa,FCxuaqPe)1Ig,AKIAJDKQ2TYWUIX54CRA,zuUI4OLv21qIo+1ztij0QvGIJyY5aRp6PJmwa
 cedricvalcy,L7_xWE(cPE^[,AKIAIHG2WCUYZFV3HT7Q,ECR3WdNvX5zCAn2c7bjpneRF+SGrcVAB/8jLKPy9,https://137170503761.signin.aws.amazon.com/console
 jerrarmohad,#ZZO1i]LoIPX,AKIAJIAQT5YEFR2CVRGQ,lacep2s7Kw/P2LS+WB6SQ90cnMyXKrfJM8G0YDJm,https://137170503761.signin.aws.amazon.com/console
 
+User name,Password,Access key ID,Secret access key,Console login link
+haddadsteven,6*SUI4TudDQX,AKIAIB3HQ2BBRYTQEONA,xzHYM2srLR5+P2ZOolqDm6WEz6zYX3ih685nxsVx,https://137170503761.signin.aws.amazon.com/console
+christophemichelle,CKThiT5zlfVv,AKIAIDSH4DYLMAQMYRCA,A/kU10urVL1VXgr3VvRMmcQnrGAGXAaTMoHxcmkk,https://137170503761.signin.aws.amazon.com/console
+farouktbahriti,+8=GwzyIg(VK,AKIAJEMNIIVXFVPTUL7A,2Ij1mofN092cq8dsnH8Lzq33HClTssTq1fd4G74K,https://137170503761.signin.aws.amazon.com/console
+medhibouziane,aubWf}jg]r%t,AKIAIGYNNMUQ5QMOXFUQ,EKRLjtQhlc1tsgfaGFcUiy137tIqAeE67FbJK75D,https://137170503761.signin.aws.amazon.com/console
+simonturquier,eyb)ihqtx_#B,AKIAIDBUOWFFTAFH4M4Q,8dY9XaKBnpGdifuxmnNr9gv+hpYrbOmwHa6ttP89,https://137170503761.signin.aws.amazon.com/console
+
 
 
 ## EC2 
