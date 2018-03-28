@@ -10,15 +10,8 @@ aws.amazon.com
 
 - Installer le CLI AWS sur https://docs.aws.amazon.com/cli/latest/userguide/installing.html
 
-## User Account
-
-
-
-
-
-
-
 ## EC2 
 
 - Création d'une instance ec2 t2.micro
-- 
+- Configuration du groupe de sécurité, 
+  - Fermer les ports autres que 22, 80, 443 et 3000
