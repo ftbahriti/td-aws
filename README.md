@@ -41,6 +41,8 @@ farouktbahriti,+8=GwzyIg(VK,AKIAJEMNIIVXFVPTUL7A,2Ij1mofN092cq8dsnH8Lzq33HClTssT
 medhibouziane,aubWf}jg]r%t,AKIAIGYNNMUQ5QMOXFUQ,EKRLjtQhlc1tsgfaGFcUiy137tIqAeE67FbJK75D,https://137170503761.signin.aws.amazon.com/console
 simonturquier,eyb)ihqtx_#B,AKIAIDBUOWFFTAFH4M4Q,8dY9XaKBnpGdifuxmnNr9gv+hpYrbOmwHa6ttP89,https://137170503761.signin.aws.amazon.com/console
 
+User name,Password,Access key ID,Secret access key,Console login link
+vincentrambaud,e9zDmsg]ds[=,AKIAIRHAXATA5ITQ6WXA,1ID//OkBOG2lmTBvuneMOQKVZ8dp++tgVNTJ1Pcb,https://137170503761.signin.aws.amazon.com/console
 
 
 ## EC2 
