@@ -17,8 +17,6 @@ aws.amazon.com
   - Fermer les ports autres que 22, 80, 443 et 3000 en inbound
   
 - se connecter en SSH
-- Installer le CMS grav
-
 
 # Installer les packages basic de l'instance
 ```bash 
@@ -53,7 +51,7 @@ sudo a2enmod headers
 `sudo chown -R "$USER":www-data /var/www`
 
 
-# Pour installer PHP7.1
+# Pour installer PHP7.2
 ```
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get install -y language-pack-en-base
@@ -90,6 +88,14 @@ sudo service apache2 restart
 Ajouter la ligne de configuration de votre domaine comme suit:
 
 `127.0.0.1 gary-aka-le-prof.ipssi-squad.fr`
+
+
+## Création d'une base de donnée RDS aurora
+
+- Connectez vous à la base de donnée (info envoyé sur slack)
+- Créez vous un compte utilisateur
+- Créez vous une table de donnée
+
 
 
 
