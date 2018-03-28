@@ -20,23 +20,36 @@ aws.amazon.com
 - Installer le CMS grav
 
 
+# Installer les packages basic de l'instance
+```bash 
+sudo apt-get install -y curl
+sudo apt-get install -y apt-transport-https
+sudo apt-get install -y ca-certificates
+sudo apt-get install -y software-properties-common
+```
+
 # Pour installer apache 
 ## Installation
+```
 sudo apt-get install -y apache2
 sudo apt-get install -y apache2-utils 
+```
 
 ### Configuration
+```
 sudo a2enmod rewrite
 sudo a2enmod headers
+```
 
 ### Add my username to wwww-data group
-sudo usermod -a -G www-data "$USER"
+`sudo usermod -a -G www-data "$USER"`
 
 ### Change owner of /var/www folder to “$USER”:www-data 
-sudo chown -R "$USER":www-data /var/www
+`sudo chown -R "$USER":www-data /var/www`
 
 
 # Pour installer PHP7.1
+```
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get install -y language-pack-en-base
 sudo apt-get update
@@ -55,6 +68,7 @@ sudo apt-get -y install php7.1-zip
 sudo apt-get -y install php7.1-cli
 
 sudo service apache2 restart
+```
 
 
 # Créé un sous domaine
@@ -63,7 +77,16 @@ sudo service apache2 restart
 
 # Configuration du VHOST sur l'instance
 
-- 
+- `sudo vi /etc/hosts`   OU `sudo nano /etc/hosts `
+
+Ajouter la ligne de configuration de votre domaine comme suit:
+
+`127.0.0.1 gary-aka-le-prof.ipssi-squad.fr`
+
+
+
+
+
 
 
 
