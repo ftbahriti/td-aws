@@ -98,11 +98,18 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 - Créez vous une base de donnée (et mettez les identifiants dans un coin pour demain)
 
 
+## Création d'un bucket AWS S3
+
+- Allez dans le panneau de controle AWS S3 
+- Creez vous un bucket à votre nom 
 
 
 
 
 
+
+
+ipssisquad2
 
 
 
