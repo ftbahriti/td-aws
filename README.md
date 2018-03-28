@@ -15,3 +15,5 @@ aws.amazon.com
 - Création d'une instance ec2 t2.micro
 - Configuration du groupe de sécurité, 
   - Fermer les ports autres que 22, 80, 443 et 3000 en inbound
+  
+
