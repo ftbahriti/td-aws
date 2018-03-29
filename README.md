@@ -109,7 +109,7 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 
 
 ## Projet sur 1 jour et demi 
-
+### Presentation
 Le projet comptera pour la note
 L'idée du projet est de réaliser un service sur AWS.
 Fin de la session de projet vendredi midi.
@@ -134,6 +134,17 @@ Vendredi après midi, chaque équipe présentera son projet devant le reste de l
 
 /!\ Ne pas commit les clés publiques!
 
+### Exemple d'idée de projet
+- Utilisation de l'api rekognition pour faire de la reconnaissance facial
+- Utilisation de comprehend pour faire de l'analyse de texte
+- Utilisation de aws lambda pour gérer une de redirection email
+- Utilisation de aws SES pour faire un outil d'envoie d'email de mass
+- Utilisation de Kinesis pour faire un site de streaming video ( comme netflix)
+- Utilisation de Cloudfront pour la création d'un CDN
+- Utilisation de AWS Machine Learning pour faire de la prédiction de donnée
+- Utilisation de AWS Poly pour transformer du text en voix
+- Utilisation d'AWS beanstalk pour créé un groupe instance EC2 avec load balancer et autoscaling groupe
+- 
 
 
 ### FAQ
