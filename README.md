@@ -142,6 +142,8 @@ Vendredi après midi, chaque équipe présentera son projet devant le reste de l
   => installer ubuntu pour windows via le windows store
 
 
+### Bonus (rien à voir avec le cours) 
 
+Pour ceux qui veulent faire des APIs REST easy => https://github.com/zfcampus/zf-apigility-skeleton
 
 
