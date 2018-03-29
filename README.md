@@ -105,6 +105,21 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 
 
 
+## Projet sur 1 jour et demi 
+
+Le projet comptera pour la note
+L'idée du projet est de réaliser un service sur AWS.
+Fin de la session de projet vendredi Midi
+Vendredi Après midi, chaque équipe présentera son projet devant le reste de la classe.
+
+- Critère de notation
+  - Utiliser des services AWS
+  
+- Critère qui ne compterons pas 
+  - La qualité du code (seulement pour cette fois)
+
+
+
 
 
 
