@@ -116,7 +116,7 @@ Fin de la session de projet vendredi midi.
 Vendredi après midi, chaque équipe présentera son projet devant le reste de la classe.
 
 - Critère de notation
-  - Utiliser des services que l'on n'a pas vu hier cad ec2, s3, rds, route53
+  - Utiliser des services que l'on n'a pas vu pendant les cours de base cad ec2, s3, rds, route53
   - Utiliser au moins 2 ou 3 services
   - Utiliser le SDK dans le language de programmation de votre choix => https://aws.amazon.com/fr/tools/#sdk
   - Plus il y a de personnes dans le groupe, plus le projet devra être lourd
