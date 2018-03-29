@@ -136,8 +136,10 @@ Vendredi après midi, chaque équipe présentera son projet devant le reste de l
 
 
 
+### FAQ
 
-
+- Je suis sous windows et je n'arrive pas à me connecter à mon serveur
+  => installer ubuntu pour windows via le windows store
 
 
 
