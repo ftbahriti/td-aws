@@ -109,9 +109,3 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 
 
 
-ipssisquad2
-
-
-
-
-
