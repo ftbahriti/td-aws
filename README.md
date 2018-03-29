@@ -1,7 +1,8 @@
 # TD AWS
 
 ## Présention
-Le but du TD est d'apprendre les bases AWS #awsBasics. 
+Le but du TD est d'apprendre les services de base d'AWS comme EC2, RDS
+
 - url du projet: https://www.github.com/garygitton/td-aws
 
 - Se creer un compte AWS 
@@ -128,7 +129,11 @@ Vendredi après midi, chaque équipe présentera son projet devant le reste de l
 - Créer un projet sur github pour votre groupe de projet
 - Envoyez moi l'url de votre projet github
 - Mettez dans le README.md, les noms des participants au projet, la description du projet, les services AWS qui seront utilisés et pourquoi.
-- Pensez à pusher régulièrement votre travail sur github
+- Pensez à push régulièrement votre travail sur github 
+
+/!\ Ne pas commit les clés publiques!
+
+
 
 
 
