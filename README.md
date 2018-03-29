@@ -109,12 +109,14 @@ Ajouter la ligne de configuration de votre domaine comme suit:
 
 Le projet comptera pour la note
 L'idée du projet est de réaliser un service sur AWS.
-Fin de la session de projet vendredi Midi
-Vendredi Après midi, chaque équipe présentera son projet devant le reste de la classe.
+Fin de la session de projet vendredi midi.
+Vendredi après midi, chaque équipe présentera son projet devant le reste de la classe.
 
 - Critère de notation
-  - Utiliser des services AWS
-  
+  - Utiliser des services que l'on n'a pas vu hier cad ec2, s3, rds, route53
+  - Utiliser au moins 2 ou 3 services
+  - Utiliser le SDK dans le language de programmation de votre choix => https://aws.amazon.com/fr/tools/#sdk
+
 - Critère qui ne compterons pas 
   - La qualité du code (seulement pour cette fois)
 
