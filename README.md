@@ -152,6 +152,16 @@ Vendredi après midi, chaque équipe présentera son projet devant le reste de l
 - Je suis sous windows et je n'arrive pas à me connecter à mon serveur
   => installer ubuntu pour windows via le windows store
 
+  
+### Liens vers les projets
+https://github.com/macrorobot/aws-in-translation
+https://github.com/sturquier/aws-project
+https://github.com/Matt75/aws-ses
+https://github.com/Taghoria/aws
+https://github.com/RayaneYagoubi/rss-feeds-parser
+https://github.com/ehalifa/squadproj
+
+
 
 ### Bonus (rien à voir avec le cours) 
 
