@@ -160,11 +160,16 @@ https://github.com/Matt75/aws-ses
 https://github.com/Taghoria/aws
 https://github.com/RayaneYagoubi/rss-feeds-parser
 https://github.com/ehalifa/squadproj
-
+https://github.com/Username34/Animadex
 
 
 ### Bonus (rien à voir avec le cours) 
 
 Pour ceux qui veulent faire des APIs REST easy => https://github.com/zfcampus/zf-apigility-skeleton
+
+
+
+
+
 
 
